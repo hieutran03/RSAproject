@@ -1,0 +1,17 @@
+D:\c#\RSAproject\RSAproject\bin\Debug\net8.0-windows\RSAproject.exe
+D:\c#\RSAproject\RSAproject\bin\Debug\net8.0-windows\RSAproject.deps.json
+D:\c#\RSAproject\RSAproject\bin\Debug\net8.0-windows\RSAproject.runtimeconfig.json
+D:\c#\RSAproject\RSAproject\bin\Debug\net8.0-windows\RSAproject.dll
+D:\c#\RSAproject\RSAproject\bin\Debug\net8.0-windows\RSAproject.pdb
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.Form1.resources
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.csproj.GenerateResource.cache
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.AssemblyInfoInputs.cache
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.AssemblyInfo.cs
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.csproj.CoreCompileInputs.cache
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.dll
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\refint\RSAproject.dll
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.pdb
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.genruntimeconfig.cache
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\ref\RSAproject.dll
+D:\c#\RSAproject\RSAproject\obj\Debug\net8.0-windows\RSAproject.generator.resources
